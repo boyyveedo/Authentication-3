@@ -1,0 +1,16 @@
+{
+  "name": "authentication",
+  "version": "1.0.0",
+  "description": "authentication and endpoints for books & authors",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "start": " nodemon index.js",
+    "dev": "node index.js"
+  },
+  "author": "okpe david",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
